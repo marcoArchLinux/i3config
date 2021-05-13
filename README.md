@@ -7,4 +7,5 @@ To Do List:
 - Add rofi config
 - Add Wallpaper
 - Add Screenshots of config
+- Add picom config
 - Improve conky config
